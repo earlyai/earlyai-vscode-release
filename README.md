@@ -80,10 +80,10 @@ module.exports = {
 ```
 
 ## Important Configuration Parameters:
-- testEnvironment: Specifies the environment in which the tests are executed.
-- collectCoverage: Enables the collection of code coverage information.
-- collectCoverageFrom: Defines the files for which coverage information should be collected.
-- coverageDirectory: Specifies the directory where coverage reports will be stored.
+- <strong>testEnvironment</strong>: Specifies the environment in which the tests are executed.
+- <strong>collectCoverage</strong>: Enables the collection of code coverage information.
+- <strong>collectCoverageFrom</strong>: Defines the files for which coverage information should be collected.
+- <strong>coverageDirectory</strong>: Specifies the directory where coverage reports will be stored.
 
 Ensure your Jest configuration is properly set up to work with TypeScript and the paths align with your project structure.
 
@@ -97,9 +97,9 @@ After installation and configuration:
 ## Troubleshooting
 If you encounter any issues while using the extension, consider the following steps:
 
-- Verify Jest Configuration: Ensure that your Jest configuration matches your project setup, particularly ensuring that collectCoverage is set to true. The extension relies on Jest's coverage reports to function properly. If coverage is not being collected, the extension will not work as expected.
-- Check Dependencies: Make sure that all dependencies, including Jest and @types/jest, are correctly installed and up-to-date.
-- Check Extension Output: Review the output from the extension in its dedicated output window within Visual Studio Code. This output can provide specific error messages and clues about what might be going wrong.
+- <strong>Verify Jest Configuration</strong>: Ensure that your Jest configuration matches your project setup, particularly ensuring that collectCoverage is set to true. The extension relies on Jest's coverage reports to function properly. If coverage is not being collected, the extension will not work as expected.
+- <strong>Check Dependencies</strong>: Make sure that all dependencies, including Jest and @types/jest, are correctly installed and up-to-date.
+- <strong>Check Extension Output</strong>: Review the output from the extension in its dedicated output window within Visual Studio Code. This output can provide specific error messages and clues about what might be going wrong.
 
 If the problem persists after these checks, please consider reporting the issue on the GitHub repository with detailed information about your setup and the errors encountered.
 
