@@ -88,11 +88,13 @@ module.exports = {
 Ensure your Jest configuration is properly set up to work with TypeScript and the paths align with your project structure.
 
 ## Using the Extension
-After installation and configuration:
+To effectively use the extension for generating unit tests, follow these simple steps:
 
-- Open your TypeScript project in Visual Studio Code.
-- The extension should automatically detect TypeScript files and provide options to generate unit tests.
-- Follow the prompts in the IDE to generate tests as needed.
+1. **Activate the Extension**: Open your TypeScript project in Visual Studio Code and switch to the extension's view.
+2. **Select a Function or Method**: In the extension's sidebar, navigate through the tree view to locate the method or function for which you want to create unit tests.
+3. **Generate Tests**: Click the 'play' button next to the function or method in the tree to start the test generation process.
+4. **Test Generation**: Allow the extension some time to automatically generate the necessary unit tests.
+5. **Review the Tests**: Once the tests are created, a new file containing the generated tests will be automatically added to your project.
 
 ## Troubleshooting
 If you encounter any issues while using the extension, consider the following steps:
