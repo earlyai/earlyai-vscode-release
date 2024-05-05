@@ -26,7 +26,7 @@ Early-AI is a cutting-edge software development tool designed to boost the effic
 * <strong>Visual Coverage Mapping</strong>
   <br> Displays a visual tree of code coverage, allowing developers to easily identify tested and untested parts of the codebase.
 * <strong>Integration with Jest</strong>
-  <br> Seamlessly integrates with Jest, the popular testing framework, ensuring compatibility and ease of use within existing projects. <br><br>
+  <br> Seamlessly integrates with Jest, the popular testing framework, ensuring compatibility and ease of use within existing projects. <br>
 * <strong>CodeLens Integration</strong>
   <br> Utilize CodeLens in Visual Studio Code to quickly generate and navigate to unit tests directly from the source code, enhancing workflow efficiency.
 
