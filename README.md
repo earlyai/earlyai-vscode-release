@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/earlyai/earlyai-vscode-release/blob/main/media/Early_Workmark_WhiteOnB_w400.png" alt="early AI logo" title="Early AI">
+  <img src="https://github.com/earlyai/earlyai-vscode-release/blob/main/media/Early_Workmark_WhiteOnB_w400.png" alt="early AI logo" title="Optional title" width="300">
   <br>
-  Bring Your Product Up to Code
+  <strong style="font-size: 24px;">Bring Your Product Up to Code</strong>
   <br>
   AI-driven technology to improve overall software quality through code generation.
-  <br>
+  <br><br> <!-- Adding an extra break line here -->
   But you're a bit too early, so we can't tell you more :)
   <br>
-  <a href="https://www.startearly.ai/beta" target="_blank">Sign up for our Beta</a>
+  <a href="https://www.startearly.ai/beta" target="_blank" rel="noopener noreferrer">Sign up for our Beta</a>
 </p>
