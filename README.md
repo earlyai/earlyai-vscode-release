@@ -1,11 +1,9 @@
-<div align="center">
+<p align="center">
+![early AI logo](https://github.com/earlyai/earlyai-vscode-release/blob/main/media/Early_Workmark_WhiteOnB.png "Optional title")
+Bring Your Product Up to Code
+AI-driven technology to improve overall software quality through code generation.
 
-# Early-AI
+But you're a bit too early, so we can't tell you more :)
 
----
-
-The ultimate tool for enhancing code quality and coverage - Early AI
-
----
-
-</div>
+[Sign up for our Beta]
+</p>
