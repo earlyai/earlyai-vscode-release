@@ -1,5 +1,5 @@
 <p align="center">
-![early AI logo](../media/Early_Workmark_WhiteOnB.png "Optional title")
+![early AI logo](./media/Early_Workmark_WhiteOnB.png "Optional title")
 Bring Your Product Up to Code
 AI-driven technology to improve overall software quality through code generation.
 
