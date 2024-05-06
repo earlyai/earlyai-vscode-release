@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/earlyai/earlyai-vscode-release/blob/main/media/Early_Workmark_WhiteOnB.png" alt="early AI logo" title="Optional title">
+  <img src="https://github.com/earlyai/earlyai-vscode-release/blob/main/media/Early_Workmark_WhiteOnB_w400.png" alt="early AI logo" title="Optional title">
   <br>
   Bring Your Product Up to Code
   <br>
