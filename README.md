@@ -6,4 +6,4 @@
 
 ### But you're a bit too early, so we can't tell you more :)
 
-[Sign up for our Beta](https://www.startearly.ai/beta){:target="_blank" rel="noopener noreferrer"}
+[Sign up for our Beta](https://www.startearly.ai/beta)
