@@ -4,5 +4,7 @@
   <h1>Bring Your Product Up to Code</h1>
   <h3>AI-driven technology to improve overall software quality through code generation.</h3>
   <h3>But you're a bit too early, so we can't tell you more :)</h3>
-  <a href="https://www.startearly.ai/beta" target="_blank" rel="noopener noreferrer">Sign up for our Beta</a>
+  <p>
+    <a href="https://www.startearly.ai/beta" target="_blank" rel="noopener noreferrer">Sign up for our Beta</a>
+  </p>
 </div>
