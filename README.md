@@ -1,4 +1,4 @@
-![early AI logo](./media/Early_Workmark_WhiteOnB_w400.png "Optional title")
+![early AI logo](./media/Early_Workmark_WhiteOnB_w400.png "early-AI logo")
 
 # Bring Your Product Up to Code
 
