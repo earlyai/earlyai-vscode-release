@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/earlyai/earlyai-vscode-release/blob/main/media/Early_Workmark_WhiteOnB_w400.png" alt="early AI logo" title="Optional title" width="300">
+  <img src="media/Early_Workmark_WhiteOnB_w400.png" alt="early AI logo" title="Optional title" width="300">
   <br>
   <h1>Bring Your Product Up to Code</h1>
   <h3>AI-driven technology to improve overall software quality through code generation.</h3>
