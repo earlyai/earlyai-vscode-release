@@ -1,7 +1,6 @@
 
 <figure>
-    <img src="https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/Early%20logo.png
-"
+    <img src="https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/Early%20logo.png"
          alt="early-AI logo" width=400 >
 </figure>
 
