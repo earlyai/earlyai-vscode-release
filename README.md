@@ -1,5 +1,9 @@
-![early AI logo](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/Early%20logo.png
- "early-AI logo")
+
+<figure>
+    <img src="https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/Early%20logo.png
+"
+         alt="early-AI logo" width=400 >
+</figure>
 
 # Bring Your Product Up to Code
 
