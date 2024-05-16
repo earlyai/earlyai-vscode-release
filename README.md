@@ -1,6 +1,6 @@
 
-![early-AI logo](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/Early-logo-smaller.png
- "early-AI logo")
+![Early-AI logo](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/Early-logo-smaller.png
+ "Early-AI logo")
 # Bring Your Product Up to Code
 
 ### AI-driven technology to improve overall software quality through code generation.
