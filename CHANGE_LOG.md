@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.11 (2024-05-23) - hotfix
+
+### Features
+
+* Support for exporting an object with methods
+
 ## 0.4.10 (2024-05-22)
 
 ### Features
