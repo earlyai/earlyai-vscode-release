@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.12
+
+### Features
+
+* Onboarding became easier
+* Better testable code discovery
+* Improvements when using on Windows operating system
+
 ## 0.4.11 (2024-05-23) - hotfix
 
 ### Features
