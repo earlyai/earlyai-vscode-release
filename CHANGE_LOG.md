@@ -1,12 +1,19 @@
 # Changelog
 
+## 0.4.13
+
+### Features
+
+* We have changed some icons for better clarity.
+* The mocks have been improved.
+
 ## 0.4.12
 
 ### Features
 
-* Onboarding became easier
-* Better testable code discovery
-* Improvements when using on Windows operating system
+* Onboarding became easier.
+* Better testable code discovery.
+* Improvements when using on Windows operating system.
 
 ## 0.4.11 (2024-05-23) - hotfix
 
