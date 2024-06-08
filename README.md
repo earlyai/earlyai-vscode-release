@@ -1,4 +1,5 @@
-![Early-AI logo](https://github.com/earlyai/earlyai-vscode-release/blob/02e7fe5298f5e77a3a4d653e51248e99bdf32179/media/Early-logo-s.png "Early-AI logo")
+![Early-AI logo](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/Early-logo-s.png "Early-AI logo")
+
 
 # Bring Your Product Up to Code
 
