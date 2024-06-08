@@ -1,10 +1,10 @@
 # Changelog
 
-## 0.4.16
+## 0.4.17
 
 ### Features
 
-* Generating tests will always give you a unit tests (even if it has some errors).
+* Generating tests will always give you unit tests (even if it has some errors).
 
 ## 0.4.15
 
