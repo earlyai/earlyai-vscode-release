@@ -4,7 +4,7 @@
 
 ### Features
 
-* Code lens and context-menu is supporting all actions. Generate tests and find your unit tests directly from the code lens or context-menu.
+* Code lens and context menu are supported for all actions. Generate tests and find your unit tests directly from the code lens or context menu.
 
 ## 0.4.18
 
