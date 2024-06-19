@@ -1,19 +1,31 @@
 # Changelog
 
-## 0.4.16
+## 0.4.19
+
+### Features
+
+* Code lens and context-menu is supporting all actions. Generate tests and find your unit tests directly from the code lens or context-menu.
+
+## 0.4.18
+
+### Features
+
+* Introducing "My View" - focus on what matter when creating your tests. This view will display files that are changed in git (your future PR).
+
+## 0.4.17
 
 ### Features
 
 * Generating tests will always give you a unit tests (even if it has some errors).
 
-## 0.4.15
+## 0.4.17
 
 ### Features
 
 * We have changed some icons for better clarity.
 * The mocks have been improved.
 
-## 0.4.12
+## 0.4.15
 
 ### Features
 
@@ -21,34 +33,34 @@
 * Better testable code discovery.
 * Improvements when using on Windows operating system.
 
-## 0.4.11 (2024-05-23) - hotfix
+## 0.4.14
 
 ### Features
 
 * Support for exporting an object with methods
 
-## 0.4.10 (2024-05-22)
+## 0.4.13
 
 ### Features
 
 * Test Navigation
 * Performance optimization
 
-## 0.4.9 (2024-05-20)
+## 0.4.12
 
 ### Features
 
 * Smoother onboarding
 
 
-## 0.4.8 (2024-05-19)
+## 0.4.11
 
 ### Features
 
 * Quality of life
 
 
-## 0.4.7 (2024-05-16)
+## 0.4.10
 
 ### Features
 
@@ -56,7 +68,7 @@
 * Easier onboarding
 
 
-## 0.4.6 (2024-05-08)
+## 0.4.9
 
 ### First Release - Alpha
 
