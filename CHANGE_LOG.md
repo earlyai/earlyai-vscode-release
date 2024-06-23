@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.20
+
+### Features
+
+* "Generate Tests" and "Goto Tests" are now available from the extension UI, Code lens, and context menu.
+* You now have nice in-progress and queued indicators for "Generate Tests" operations.
+  
 ## 0.4.19
 
 ### Features
@@ -10,7 +17,7 @@
 
 ### Features
 
-* Introducing "My View" - focus on what matter when creating your tests. This view will display files that are changed in git (your future PR).
+* Introducing "My View" - focus on what matters when creating your tests. This view will display files that are changed in git (your future PR).
 
 ## 0.4.17
 
