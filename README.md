@@ -37,7 +37,7 @@ Visit our [sample app in github](https://github.com/earlyai/earlyai-todo-app)
 ## Setup & Configuration
 
 1. Prerequisites
-For an easy initial setup we recommend you go through our [getting started guide](https://www.startearly.ai/elements/getting-started) first.
+For an easy initial setup we recommend you go through our [sample ToDo app in github](https://github.com/earlyai/earlyai-todo-app) first.
 
 Before installing the extension, ensure you have the following prerequisites installed:
 * [VSCode](https://code.visualstudio.com/download) (Version 1.88 and later)
