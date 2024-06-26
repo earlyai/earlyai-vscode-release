@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.4.21
+
+### Fixes
+
+* On-boarding now displays better assistance in setup & configuration.
+
+### known issues
+
+* If you don't have any tests, create them in the code lens and "Reload" once done.
+
 ## 0.4.20
 
 ### Features
