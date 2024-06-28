@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.22
+
+### Features
+
+* "MY CODE" - check out the tab that gives you focus on you current feature. It has Code coverage now.
+
 ## 0.4.21
 
 ### Fixes
