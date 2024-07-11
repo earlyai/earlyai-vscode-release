@@ -1,5 +1,12 @@
 # Changelog
 
+
+## 0.4.23
+
+### Features
+
+* Effortless Test Generation: Now seamlessly supports monorepos and projects not fully configured with Jest, accessible via CodeLens or the extension tree.
+
 ## 0.4.22
 
 ### Features
