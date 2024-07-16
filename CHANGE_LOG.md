@@ -1,6 +1,12 @@
 # Changelog
 
 
+## 0.4.24
+
+### Features
+
+* Tests are orgenized into test folders, sibling to the tested code.
+
 ## 0.4.23
 
 ### Features
