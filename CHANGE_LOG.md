@@ -5,7 +5,7 @@
 
 ### Features
 
-* Tests are orgenized into test folders, sibling to the tested code.
+* Tests are organized into test folders, sibling to the tested code.
 
 ## 0.4.23
 
