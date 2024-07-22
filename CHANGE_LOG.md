@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.25
+
+### Features
+
+* JavaScript Test Generation Support
+We are excited to announce that our tool now supports creating tests for JavaScript code! This highly requested feature enables developers to generate unit tests for their JavaScript projects seamlessly.
 
 ## 0.4.24
 
