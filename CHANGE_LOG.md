@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.26
+
+* General fixes and stability improvements to the testable code tree.
+
 ## 0.4.25
 
 ### Features
