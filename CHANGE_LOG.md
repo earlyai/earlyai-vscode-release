@@ -3,7 +3,7 @@
 
 ## 0.4.27
 
-* Testable code tree - discovery improvments.
+* Testable code tree - discovery improvements.
 
 ## 0.4.26
 
