@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 0.4.27
+
+* Testable code tree - discovery improvments.
+
 ## 0.4.26
 
 * General fixes and stability improvements to the testable code tree.
