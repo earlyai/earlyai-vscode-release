@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.4.28
+
+* Mocha Support
+We’re expanding our horizons! Now you can generate tests with Mocha too, alongside Jest.
+* Test Location Flexibility
+Choose your vibe - tests can now be placed as “Root” in addition to “Sibling” right next to your source folder. More options, more control.
+* Custom Test File Format
+Whether you’re team test or spec, we’ve got you covered. Pick your preferred format for test files.
+* Sleek New Settings Screen
+Tailor your testing experience like never before! Select your testing framework (Jest or Mocha), decide your test location (Root or Sibling), and choose your file format (spec or test) with ease.
+* VSCode Insider & VSCodium Support
+We’ve got you no matter where you code! EarlyAI now plays nicely with VSCode Insider and VSCodium.
 
 ## 0.4.27
 
