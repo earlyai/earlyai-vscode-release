@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.29
+
+* After adding support for Mocha, we’ve squashed some bugs to enhance the user experience. Happy coding.
+
 ## 0.4.28
 
 * Mocha Support
