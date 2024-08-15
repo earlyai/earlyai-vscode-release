@@ -7,7 +7,7 @@ This Visual Studio Code extension is designed to automatically generate unit tes
 2. [Installation](#2-installation)
 3. [Configuration](#3-configuration)
     - [Jest](#jest)
-    - [Mocha](#mocha) (coming soon)
+    - [Mocha](#mocha)
 4. [Preparing to Use the Extension](#4-preparing-to-use-the-extension)
 5. [Using the Extension](#5-using-the-extension)
 6. [Troubleshooting](#6-troubleshooting)
