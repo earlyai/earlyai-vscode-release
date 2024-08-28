@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.31
+
+* Bug fixes and performance improvements.
+
 ## 0.4.30
 
 * We identified and resolved several issues that were affecting the generation of tests for TypeScript and JavaScript projects. These fixes should improve the overall experience for our users.
