@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.32
+
+* Test generation works even faster now.
+* We identified and crashed the cause for scenarios where tests were not displayed.
+
 ## 0.4.31
 
 * Bug fixes and performance improvements.
