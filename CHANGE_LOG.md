@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.33
+
+* Updated .gitignore to automatically include Early’s coverage folder.
+
 ## 0.4.32
 
 * Test generation works even faster now.
