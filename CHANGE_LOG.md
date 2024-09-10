@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.34
+
+* Bug fixes and performance improvements.
+
 ## 0.4.33
 
 * Updated .gitignore to automatically include Early’s coverage folder.
