@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.35
+
+* We’ve implemented significant bug fixes and performance enhancements to improve overall stability and speed.
+
+Sneak peek: Thanks to feedback from our awesome users, we’re working on adding React support in an upcoming release. We can’t wait to share it with you—stay tuned!”
+
 ## 0.4.34
 
 * Bug fixes and performance improvements.
