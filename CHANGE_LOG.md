@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.36
+
+* Some bugs have been identified and squashed.
+* Imports are better created in your test files.
+* "Go to tests" from the code lens behaves nicer.
+
 ## 0.4.35
 
 * We’ve implemented significant bug fixes and performance enhancements to improve overall stability and speed.
