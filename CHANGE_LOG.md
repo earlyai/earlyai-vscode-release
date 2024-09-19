@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.4.36
+## 0.4.37
 
 * You can now invite a friend! Use the menu in the extension to send an invite and share the benefits of using this powerful tool together.
 * Some minor bug fixes.
