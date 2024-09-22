@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.38
+
+* Fixed bugs related to React support for a smoother and more reliable experience.
+
 ## 0.4.37
 
 * You can now invite a friend! Use the menu in the extension to send an invite and share the benefits of using this powerful tool together.
