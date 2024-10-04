@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 0.4.40
+
+* Bug fixes and performance improvements.
+
 ## 0.4.39
 
 * Enhanced React support, especially for React hooks. Unit tests now include more advanced and complex mocks for better coverage.
