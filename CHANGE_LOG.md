@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 0.4.41
+
+* Fixed a bug related to removing errored imports for smoother code handling.
+
 ## 0.4.40
 
 * Bug fixes and performance improvements.
