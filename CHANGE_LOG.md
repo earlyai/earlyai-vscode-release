@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.42
+
+* New “Generate Tests” Icon: We’ve added a magic wand icon to make generating tests even more fun and intuitive!
+* Various stability improvements for a smoother experience.
 
 ## 0.4.41
 
