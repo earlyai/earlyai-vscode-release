@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.5.0
+
+Meet Earl – Early AI’s Quality Engineer
+
+We’re excited to introduce Earl, our new AI-powered assistant! Earl brings two powerful new features to assist you during test generation:
+
+* Function Documentation: Automatically generates comprehensive documentation for your functions, which you can either copy or directly insert into your code.
+* Function Code Improvements: Offers suggestions to enhance your function’s code. These improvements can be easily copied for quick adjustments.
+
+Earl works seamlessly behind the scenes while your tests are being generated, helping you improve both code quality and clarity with minimal effort!
+
 ## 0.4.42
 
 * New “Generate Tests” Icon: We’ve added a magic wand icon to make generating tests even more fun and intuitive!
