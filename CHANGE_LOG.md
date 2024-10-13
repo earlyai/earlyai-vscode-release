@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.1
+
+* Minor UI changes to boost the experience.
+
 ## 0.5.0
 
 Meet Earl – Early AI’s Quality Engineer
