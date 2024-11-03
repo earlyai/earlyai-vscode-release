@@ -4,6 +4,12 @@
 
 * Enhanced stability and resolved known issues for a smoother experience.
 
+## 0.5.2
+
+* Extend the support for React unit tests.
+* Support Kebab case unit test file names.
+* Earl - imporve actions.
+
 ## 0.5.1
 
 * Minor UI changes to boost the experience.
