@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.5.2
+## 0.5.3
 
 * Enhanced stability and resolved known issues for a smoother experience.
 
