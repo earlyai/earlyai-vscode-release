@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.2
+
+* Enhanced stability and resolved known issues for a smoother experience.
+
 ## 0.5.1
 
 * Minor UI changes to boost the experience.
