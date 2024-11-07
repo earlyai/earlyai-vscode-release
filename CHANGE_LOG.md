@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.4
+
+* Improve memory consumption during test generation.
+
 ## 0.5.3
 
 * Enhanced stability and resolved known issues for a smoother experience.
