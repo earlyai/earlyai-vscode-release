@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.6
+
+* Coverage tree improvements
+
 ## 0.5.5
 
 * Improve memory consumption during test generation.
