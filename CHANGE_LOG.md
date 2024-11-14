@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.7
+
+* Fix coverage tree edge cases
+
 ## 0.5.6
 
 * Coverage tree improvements
