@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.5.7
+
+* Fix coverage tree edge cases
+
+## 0.5.6
+
+* Coverage tree improvements
+
+## 0.5.5
+
+* Improve memory consumption during test generation.
+
 ## 0.5.3
 
 * Enhanced stability and resolved known issues for a smoother experience.
