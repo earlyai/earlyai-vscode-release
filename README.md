@@ -1,43 +1,48 @@
 # Early AI - Generate Tests - improve code quality
-Early automatically generates and maintains verified and validated unit tests.
+EarlyAI - Automatically Generate Validated and Verified Unit Tests to Improve Code Qualit.
 
 ## Features
 
-### Automatically generate working tests
-Generate working tests with a click of a button
+### 1. Automatically Test Generation
+With a single click, developers can generate functional tests directly within the IDE, utilizing Code Lens or the context menu for seamless integration.
 ![Generate-Tests](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/features/1-GenerateTests.gif "Generate Tests")
 
-
-1. ### Generate tests from vsCode
-Easily generate tests without leaving your IDE. Use Code Lens or context menu.
+### 2. IDE Integrated
+Seamless Test Generation Directly from Your Code.
 ![Generate-Tests-From-Code](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/features/2-GenerateTestsFromCode.gif "Generate Tests From Code")
 
-2. ### Go to tests – view your tests
-Easily navigate to the newly generated tests, review or make them better.
+### 3. Earl
+Your AI Test Engineer does all three: generating tests, analyzing code, and writing documentation.
+![Earl](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/features/6-earl.png "Earl")
+
+### 4. Simple navigation
+Developers can effortlessly navigate to newly generated tests to review and enhance them as needed.
 ![Goto-Tests](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/features/3-goto-tests.gif "Go To Tests")
 
-3. ### Generate high-quality tests (mocks, happy path, edge cases)
-Generate high-quality tests that include mocks and cover various scenarios such as happy paths and edge cases. Green tests enhance coverage, while red tests may identify potential bugs.
+### 5. High quality tests
+EarlyAI produces comprehensive tests that include mocks and covers various scenarios, such as happy paths and edge cases, thereby improving code coverage and identifying potential bugs.
 
 ![Test-Quality](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/features/4-test-quality.gif "Test Quality")
 
-4. ### Generate tests that increase coverage
-See the impact of tests on your code coverage, ensuring your work makes a difference.
+### 6. Increased coverage
+Visualize the impact of your tests on code coverage and ensure your efforts are contributing to a more robust and reliable application.
 ![Coverage](https://raw.githubusercontent.com/earlyai/earlyai-vscode-release/main/media/features/5-highCoverage.gif "Coverage")
 
 ## See it in  action
-Visit our [sample app in github](https://github.com/earlyai/earlyai-todo-app)
+Visit our [sample ToDo app in github](https://github.com/earlyai/earlyai-todo-app)
 
 ## Support
 ### IDEs
 * vsCode
+### Test Frameworks
+* Optiomized by using Jest and Mocha
 ### Languages
-* TypeScript
+* JavaScript, TypeScript, Node.js, React, Angular
 
 ## Setup & Configuration
 
 1. Prerequisites
-For an easy initial setup, we recommend you go through our [sample Todo-app in github](https://github.com/earlyai/earlyai-todo-app) first.
+For an easy initial setup we recommend you go through our [sample ToDo app in github](https://github.com/earlyai/earlyai-todo-app) first.
 
 Before installing the extension, ensure you have the following prerequisites installed:
 * [VSCode](https://code.visualstudio.com/download) (Version 1.88 and later)
