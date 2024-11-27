@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.9
+* Enable login using Google and Github
+
 ## 0.5.8
 
 * File view imperovements.
