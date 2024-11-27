@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.8
+
+* File view imperovements.
+* Improved package imports in test files.
+
 ## 0.5.7
 
 * Fix coverage tree edge cases
