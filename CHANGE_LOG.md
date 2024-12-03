@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.10
+* Performance improvements
+
 ## 0.5.9
 * Enable login using Google and Github
 
