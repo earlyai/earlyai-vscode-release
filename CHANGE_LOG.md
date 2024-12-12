@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.12
+* Python bug fixes and improvements
+
 ## 0.5.11
 * Vtest support - support generation of tests using the vtest framework.
 * Initial Python support - support generation of tests for python.
