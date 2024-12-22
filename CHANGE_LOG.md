@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.5.13
+## 0.5.14
 * Add a link to the Profile Page
 * Ongoing unit test improvements
 
