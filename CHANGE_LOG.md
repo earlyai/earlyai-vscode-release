@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.16
+* Ongoing bug fixes and improvements
+
 ## 0.5.15
 * User setting - new and improved design 
 
