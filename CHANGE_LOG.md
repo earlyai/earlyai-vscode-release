@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.17
+* Improved TS React testing support
+* Improved test validation command
 ## 0.5.16
 * Ongoing bug fixes and improvements
 
