@@ -1,0 +1,479 @@
+License Agreement
+Last Updated: January 1st, 2025
+
+THIS LICENSE AGREEMENT (THE "AGREEMENT") CONSTITUTE A LEGAL AGREEMENT BY AND
+BETWEEN THE INDIVIDUAL, COMPANY, OR OTHER LEGAL ENTITY WHO ACCESSES, INTERACTS WITH, OR
+OTHERWISE UTILIZES THE PLATFORM, AS DEFINED BELOW (“YOU" OR “USER”), AND: (I) IF YOU ARE
+LOCATED IN THE UNITED STATES, EARLY TECHNOLOGIES INC, A CORPORATION ORGANIZED UNDER THE
+LAWS OF THE STATE OF DELAWARE, USA; OR (II) IF YOU ARE LOCATED OUTSIDE THE UNITED STATES,
+EARLY TECHNOLOGIES LTD, A COMPANY ORGANIZED UNDER THE LAWS OF THE STATE OF ISRAEL (IN
+EACH CASE, “COMPANY”, “EARLY”, “WE”, “OUR” OR “US”).
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING AND/OR USING THE
+PLATFORM. ANY USE OF THE PLATFORM IS AND SHALL BE SUBJECT TO THE TERMS AND
+CONDITIONS SET FORTH HEREIN, UNLESS YOU AND THE COMPANY HAVE EXECUTED A
+SEPARATE AGREEMENT IN WRITING, SIGNED BY BOTH YOU AND THE COMPANY, WHICH
+EXPRESSLY SUPERSEDES THIS AGREEMENT. YOU HEREBY REPRESENT THAT YOU POSSESS THE
+LEGAL AUTHORITY TO ENTER INTO THIS AGREEMENT ON YOUR OR ON YOUR ORGANIZATION'S
+BEHALF (AS APPLICABLE) AND TO FORM A BINDING AGREEMENT UNDER ANY APPLICABLE
+LAW.
+BY (I) CLICKING “I AGREE”, “ACCEPT” OR SIMILAR BUTTON WHICH REFERENCES THIS
+AGREEMENT; AND/OR (II) DOWNLOADING, INSTALLING, OPERATING OR OTHERWISE
+USING THE PLATFORM, YOU ARE EXPRESSLY ACKNOWLEDGING THAT YOU HAVE READ
+AND UNDERSTOOD THIS AGREEMENT AND YOU ARE EXPLICITLY ACCEPTING THIS
+AGREEMENT AND AGREEING TO BE BOUND BY ITS TERMS AND CONDITIONS. THE EARLIER
+OF THE FOREGOING (I)-(II) SHALL BE CONSIDERED AS THE “EFFECTIVE DATE” OF THIS
+AGREEMENT.
+IF YOU DO NOT AGREE TO THIS AGREEMENT OR ARE NOT WILLING TO BE BOUND BY IT,
+YOU ARE NOT PERMITTED TO DOWNLOAD, INSTALL, OPERATE OR OTHERWISE USE THE
+PLATFORM OR ANY PORTION OF IT IN ANY MANNER AND YOU MUST PROMPTLY
+UNINSTALL THE PLATFORM, AND ANY PART THEREOF, FROM YOUR SYSTEM.
+
+1. License grant and restrictions.
+
+1.1 The Platform. The Company is the developer and provider of its proprietary AI based platform designated
+to assist developers in creating software tests that help them test and debug their application code (the
+“Platform”). The term "Platform" includes the on-premise extension to be locally installed on your
+development environment (solely in object code form), and the cloud server that, inter alia, communicates
+with such extension (accessible solely on a Software-as-a-Service basis), including any APIs with which
+they are interfaced and their compilation of data, dashboard, algorithms, utility, application software
+interfaces, tools, reports and analytics capabilities, visual display resulting from the operation of the
+foregoing, any associated specifications, any service provided via such components and their related
+documentation.
+
+1.2 License. Subject to the terms of this Agreement, the Company hereby grants you, and you accept, a limited,
+personal, non-exclusive, non-sublicensable, non-assignable, non-transferable and revocable license to
+install and use the Platform solely for your internal use purposes, during the Term (as defined below)
+(collectively, the “License”). The Platform should be installed and used in accordance with the instructions
+of the Company and in accordance with the instructions set forth in the Platform's documentation.
+
+2. Consideration.
+
+2.1 Limited access to the Platform may currently be provided to you free of charge. However, in order to
+exceed the usage caps which may be identified on the following link: https://www.startearly.ai/pricingearly,
+as may be updated from time to time at our sole discretion (the “Pricing Page”) or otherwise to
+receive access to any payment-bearing features or capabilities of the Platform, as may be described
+therein, you may be required to purchase a subscription to the Platform, under specific subscription terms
+detailed on the Pricing Page and/or on other pages you may interact with as part of your subscription
+purchase process, such as the required fees and applicable billing cycles, use limitations, usage capacities
+and technical requirements (the "Subscription", the “Subscription Terms” and the “Fees”, respectively).
+We may make available more than one Subscriptions, under distinctive Subscription Terms. The
+Subscription Terms associated with your Subscription are incorporated into this Agreement by reference,
+provided that in the event of any conflict between the terms of this Agreement and the Subscription Terms,
+the terms of this Agreement shall prevail. For the avoidance of doubt, we also reserve the right to
+discontinue the availability of the free of charge version of the Platform at any time and require you to
+pay fees for any further use of the Platform, all at our sole discretion and without any prior notice.
+
+2.2 We may enable you to purchase a certain Subscription for multiple Users (the “Invited Users”). In such
+case, we will send such Invited Users an e-mail invitation to open an Account (as defined and further
+outlined below), using the contact details you shared about them (the “Invited Users”). Following the
+installation of the Platform by each Invited User, and the opening of his/her Account, such each Invited
+Users will be indicated, within the interface of the Platform, as to which Subscription he/she is entitled to
+by virtue of your registration. You hereby undertake to provide us only with accurate and complete
+contract details of your Invited Users.
+
+2.3 In the event that you are an Invited User, the terms of this Section 2 (excluding Sections 2.2-2.3) will not
+apply to you; however, you will still be subject to all other terms and condition of this Agreement,
+including those pertaining to Subscriptions. You hereby acknowledge that the User’s handling,
+management and/or maintenance of such Subscription, including without limitation the required
+payments, cancellations, renewals, updates and/or changes, shall be controlled solely by the User who
+purchased such Subscription for you, and the Company is not under any obligation to notify you about
+any such developments. Accordingly, you hereby explicitly waive any claim against the Company as to
+the terms, status or nature of your Subscription and any changes which may apply thereto, and you
+acknowledge that you are solely responsible to verify this matter with such purchaser. In case you wish
+to assume responsibility and control over a Subscription, you can always purchase a new, independent,
+personal Subscription via the Pricing Page, which shall be completely separated from your Subscription
+as an Invited User.
+
+2.4 Regardless of whether the Fees are based on period-based billing cycles (e.g., monthly, annual fees, etc.)
+(the “Billing Cycle(s)”), the Subscriptions are ongoing and shall continue until terminated by a Party in
+accordance with Section 12 (Termination) below.
+
+2.5 Unless specified otherwise in the Subscription Terms, the Fees for each Billing Cycle period shall be
+billed in advance, namely, immediately at the time of the Subscription purchase, calculated for the initial
+Billing Cycle on a pro rata basis, and periodically thereafter upon the commencement of the consecutive
+Billing Cycle periods, namely on the 1st of each applicable month.
+
+2.6 Unless otherwise required under applicable consumer laws, we may change the Subscription Terms,
+including Fees, by notifying you of such change at least fifteen (15) days prior to the commencement of
+the next Billing Cycle period (the “Notice Period”) and such change will not take effect during the Notice
+Period. Your failure to notify us of cancellation of your Subscription during the Notice Period, will
+constitute your consent to the updated Subscription Terms. We may enable you to make certain changes
+to the Subscription Terms of an existing Subscription, and such changes will take effect with the next
+Billing Cycle following the date such changes are made.
+
+2.7 If you fail to pay the Fees set forth in the Subscription Terms on time, or if your payment information is
+entered in error or does not go through for processing and you do not update payment information upon
+our request, your entire Subscription may be suspended or cancelled and the Fees will accrue interest on
+a daily basis until paid in full at the lesser of: (i) the rate of one and a half percent (1.5%) per month; or
+(ii) the highest amount permitted by applicable law, and Early may take any other legal action to recover
+the unpaid fees.
+
+2.8 To the extent permitted under applicable consumer laws, all Fees and other amounts paid hereunder are
+irrevocable and non-refundable. Unless otherwise stated, our charges do not include any taxes, levies,
+duties or similar governmental assessments, including VAT, sales, use or withholding taxes required
+under applicable law (collectively “Taxes”). You are responsible for paying Taxes except those which
+are based on Company's revenue. We will charge you for such Taxes if we believe we have a legal
+obligation to do so.
+
+2.9 Payments of Fees may be processed via certain online payment service providers ("Online Payment
+Processors"). We may add or change the Online Payment Processors at our sole discretion. The Online
+Payment Processors enable you to send payments securely online using a credit card, debit card, or bank
+account. We do not control and are not affiliated with such Online Payment Processors. These Online
+Payment Processors are independent contractors and have no employment or agency relationship with the
+Company. The Company is not responsible in any way for the actions or performance (or lack thereof) of
+the Online Payment Processors. The use of the Online Payment Processors is at your own risk. It is your
+responsibility to abide by all the terms specified by the Online Payment Processors in their terms of use
+and privacy policies. You acknowledge that you are fully assuming the risks of conducting any
+transactions via the Online Payment Processors.
+
+3. Account. In order to use the Platform, you may be required to register and create an account within the
+Company’s website on: https://www.startearly.ai/ (the “Account”) which account shall be integrated with the
+Platform. You are responsible for any activity that occurs within your Account and for safeguarding your
+username and password, which you may not share or otherwise make available to any third party. We may
+also enable you to open an Account by connecting with your existing third-party social network account, such
+as your GitHub account ("Social Network Account”). To the extent that you have registered to the Platform
+through your existing Social Network Account, the applicable social network will provide us with access to
+certain information about you which is stored in your Social Network Account, namely, any information which
+is detailed and displayed to you in the notice appearing during the integration process with the Social Network
+Account (for example, your name, email address and other information your make publicly available via the
+applicable third party platform). We may collect your login information and other relevant information
+necessary to enable us to access your Social Network Account (such as, your access token) in order to collect
+and/or store, to the extent legally permissible, the abovementioned data. The manner in which the Social
+Network Account uses, stores and discloses your information is governed solely by its policies and we shall
+have no liability or responsibility for the privacy practices or other actions of the applicable social network.
+You hereby agree that such information will be stored even after the linkage to your Social Network Account
+expires, for any reason. You are responsible for any activity that occurs within your Account, and you may
+not share your Account or otherwise enable any third party to access your Account. We may suspend or
+terminate access to your Account and/or to the Platform if we believe, at our sole discretion, that one (or more)
+of the following events has occurred: (a) there is a risk to the security or privacy of your Account; (b) there is
+a threat to the security or integrity of our network or our servers; (c) suspension is needed to protect the rights,
+property or safety of the Company, its users or the public, or for the proper operation of the Platform; (d) there
+is a legitimate basis for termination of your Account; (e) you have violated this Agreement; and/or (f) we are
+required to by law. We may provide you a notice in the event of any such suspension. During such suspension,
+you will not have the ability to use or access your Account. In the event that we will determine, at our sole
+discretion, that the reason for the suspension of access to your Account has been resolved, we will restore
+access to your Account.
+
+4. Prohibited Uses. Except as expressly permitted herein, without the prior written consent of Company, You
+must not, and shall not allow any third party to, directly or indirectly: (i) modify, incorporate into or with other
+software, or create a derivative work of any part of the Platform; (ii) sell, license (or sub-license), lease, assign,
+transfer, pledge, or share your rights under this Agreement with or to anyone else; (iii) copy, distribute or
+reproduce the Platform for the benefit of third parties; (iv) disclose the results of any testing or benchmarking
+of the Platform to any third party, or use such results for your own competing software development activities
+or use the Platform in order to build or support, and/or assist a third party in building or supporting, products
+or services which are competitive to Company's business; (v) modify, disassemble, decompile, reverse
+engineer, revise or enhance the Platform or attempt to discover the Platform’s source code or the underlying
+ideas or algorithms of the Platform; (vi) use the Platform in a manner that violates or infringes any rights of
+any third party, including but not limited to, right of privacy, proprietary rights or intellectual property rights
+of any third parties including without limitation copyright, trademarks, designs, patents and trade secrets; (vii)
+remove or otherwise modify any of the Company's trademarks, logos, copyrights, notices or other proprietary
+notices or indicia, if any, fixed, incorporated, included or attached to the Platform nor copy any local agent,
+the documentation or any written materials accompanying the Platform; (ix) use the Platform for any purpose
+other than for the purpose for which the Platform is designated for or other than in compliance with the terms
+of this Agreement; (x) circumvent, disable or otherwise interfere with security-related features of the Platform
+or features that enforce limitations on the use of the Platform; (xi) use any automated means to access the
+Platform; (xii) use the Platform without receiving all applicable consents for the collection and processing of
+personally identifiable information as required under any applicable law; (xiii) integrate the Platform (or any
+part thereof) into your hardware or systems other than as instructed by the Company; (xviii) ship, transfer, or
+export the Platform into any country, or make available or use the Platform in any manner, prohibited by
+applicable laws (including applicable export control laws); (xiv) violate or abuse log-in and/or password
+protections governing access to the Platform; (xv) access, store, distribute, or transmit during the course of its
+use of the Platform any malicious code (i.e., software viruses, Trojan horses, worms, malware or other
+computer instructions, devices, or techniques that erase data or programming, infect, disrupt, damage, disable,
+or shut down a computer system or any component of such computer system), or unlawful, threatening,
+obscene or infringing material; and/or (xvii) use the Platform in any other unlawful manner.
+
+5. Lawful Use: You hereby agree that you shall only use the Platform in a manner that complies with all
+applicable laws in the jurisdiction in which you use the Platform, including, but not limited to, applicable
+restrictions concerning the protection of privacy and intellectual property including copyrights and any other
+intellectual property rights.
+
+6. Title & Ownership.
+
+6.1. Ownership of the Platform. The Platform and the related documentation are licensed and not sold. All
+right, interest and ownership in and to the Platform and the related documentation, including without
+limitation in and to any and all Intellectual Property Rights evidenced by or embodied in, attached,
+connected and/or related to the Platform, are and shall remain owned solely by Company or its licensors.
+For the avoidance of doubt, any updates, modifications, improvements, or derivations made to the
+Platform, shall remain the sole property of the Company. This Agreement does not convey to you an
+interest in or to the Platform but only a limited right to use the Platform in accordance with the terms of
+this Agreement. Nothing in this Agreement constitutes a waiver of the Company’s Intellectual Property
+Rights under any law. “Intellectual Property Rights” means: (i) inventions (whether or not patentable),
+patents and patent applications throughout the world, including all reissues, divisions, continuations,
+continuations-in-part, extensions, renewals, and re-examinations of any of the foregoing, all whether or
+not registered or capable of being registered; (ii) common law and statutory trade secrets and all other
+confidential or proprietary or useful information that has independent value, and all know-how, in each
+case whether or not reduced to a writing or other tangible form; (iii) all copyrights, whether arising under
+statutory or common law, whether registered or not; (iv) all trademarks, trade names, corporate names,
+company names, trade styles, service marks, certification marks, collective marks, logos, and other source
+of business identifiers, whether registered or not; (v) moral rights in those jurisdictions where such rights
+are recognized; (vi) any rights in source code, object code, mask works, databases, algorithms, formulae
+and processes; and (vii) all other intellectual property and proprietary rights, and all rights corresponding
+to the foregoing throughout the world.
+
+6.2. Feedback. If you contact the Company with feedback data (e.g., questions, comments, suggestions or the
+like) regarding the Platform (collectively, “Feedback”), such Feedback shall be deemed non-confidential,
+and the Company shall have a non-exclusive, irrevocable, perpetual, royalty-free, fully paid, sublicensable,
+transferable, assignable and worldwide license to use and/or incorporate such Feedback into
+the Platform and/or other current or future products or services of the Company (without your approval
+and without further compensation to you). You hereby expressly and irrevocably waive any moral rights
+may have in the Feedback. The Feedback shall be deemed as Company’s Confidential Information (as
+defined below).
+
+6.3. Input and Output.
+
+6.3.1. You represent and warrant that you are the rightful owner of the software code you upload or input
+into the Platform (the “Input”) or that you have (and will continue to have) all the necessary
+licenses, rights, consents, and permissions from the owners and/or licensors of such Input (including
+without limitation, as applicable, from your employer) for uploading the Input to the Platform and
+enabling the Company to provide its services with respect thereto. If you don’t possess such rights,
+you are strictly prohibited from sharing with us such Input. You further warrant and represents that
+your Input does not infringe any third party's intellectual property rights, privacy rights or publicity
+rights. As long as your Input is subject to any applicable copyright law, it shall remain at all times,
+and to the extent permitted by law, your sole and exclusive property. We do not claim ownership of
+your Input.
+
+6.3.2. Unless you are on a “Team” Subscription, you hereby grant us a non-exclusive, irrevocable,
+perpetual, royalty-free, fully paid, sub-licensable, transferable, assignable and worldwide license to
+use the Input and the Output (as defined below) for the purposes of: (i) providing you with the
+Platform and the services offered via the Platform (including by transferring your Input to our
+LLM(s), as detailed below); and (ii) training, developing and improving the Company's current
+and/or future products (including the Platform), and you hereby explicitly and irrevocably waive
+any moral right you may have in and to the Input.
+
+6.3.3. In case you are on a “Team” Subscription, we will not use your Input in order to train artificial
+intelligence models, nor store your Input for longer than reasonably necessary in order to generate
+the Output (as defined below) for you, except as required under applicable law. You hereby grant
+us a non-exclusive, royalty-free, fully paid, sub-licensable (solely to our authorized vendors
+involved in the operation of the Platform on our behalf) license to use the Input and the Output
+solely for the purpose of providing you with the Platform and the services offered via the Platform
+(including by transferring your Input to our LLM(s), as detailed below), for generating certain
+Analytics Information (as defined below), or as required by applicable laws.
+
+6.3.4. You understand and agree that you are solely responsible for your Input and the consequences of
+uploading or inputting such Input to the Platform. The Company will not bear any liability for any
+loss, damage, cost or expense that you may suffer or incur as a result of or in connection with
+uploading or inputting any Input to the Platform. You are solely accountable for the routine backup
+of your Input. We do not assume responsibility for any backup procedures, recovery efforts, or
+ensuring the recoverability of your Input in the event of data loss. You shall have sole responsibility
+for the accuracy, quality and legality of the Input. It is further clarified that the Company does not
+support all code languages and technology stacks, but only those which are explicitly identified on
+the Pricing Page in relation to your Subscription.
+
+6.3.5. Output. As between you and the Company, you own all output from the Platform which is based
+on and made available to you by the Company in response to the Input (the “Output”). Please note
+however that as for the inherent characteristics of the Platform and artificial intelligence in general,
+the results generated by the Platform may not be entirely unique, and other users of the Platform
+might receive similar outputs. As such, your ownership of the Output will not apply with respect to
+output which the Company provided to other users of the Platform. You bear full responsibility and
+assume all risks associated with the utilization of the Output, including the incorporation of the
+Output into your source code. You are solely responsible for assessing its accuracy, integrity, and
+suitability for your intended purpose, which should involve employing human review as necessary.
+We strongly recommend that you have reasonable policies and practices in place designed to prevent
+the use of an Output in a way that may violate the rights of others. We expressly disclaim all liability
+and responsibility for any Output, including any errors, inaccuracies, lack of suitability, or non6
+conformity of said Output and/or any bugs, viruses, or Trojan horses contained therein, as well as
+with respect to any infringement of third party's intellectual property rights resulting therefrom.
+Furthermore, we disclaim any responsibility, and you hereby discharge us from any liability
+associated with the potential existence of any open-source licensed components within the Output,
+including licenses which may in certain cases require the public distribution of or access to your (or
+any third party's) source code.
+
+6.3.6. You agree that you will not post or upload any Input or try to generate any Output containing content
+which (i) is unlawful to possess, post or upload; (ii) breaches the rights of third parties (including
+any intellectual property rights); (iii) is defamatory, vulgar, libelous, pornographic, indecent,
+harassing, threatening, abusive or fraudulent; (iv) violates any applicable laws or regulations, or
+encourage or promote any illegal activity including, but not limited to, copyright infringement,
+trademark infringement, defamation, invasion of privacy, identity theft, hacking, cracking or
+distribution of counterfeit software; and (v) include viruses or other harmful and/or malicious codes.
+You will also not, and will not permit any third party to, use the Output to develop any artificial
+intelligence models that compete with our products and services.
+
+6.4. LLM(s). You hereby acknowledge and confirm that the Company partners with third parties engaging in
+Large Language Models operations in order to provide you with the Platform and the services offered via
+the Platform (“LLM(s)”) and that such LLM(s) may use the Input for the same purposes for which we are
+entitled to use the Input under this Agreement, mutatis mutandis.
+
+6.5. Analytics Information. The Company may collect, disclose, publish and use in any other manner
+anonymous usage data, such as technical and behavioral information, deriving from your use of the
+Platform, as well as anonymous metadata deriving from your Input, such as the language of the relevant
+code and other metadata generated by tagging the Input (i.e., non-identifiable information, aggregated and
+analytics information that does not identify any organization or any individual person) (collectively,
+"Analytics Information"), in order to provide and improve the Platform and Services, for R&D purposes
+and for any other legitimate business purpose. The Company is and shall remain the sole owner of the
+Analytics Information.
+
+7. Personal Data. Certain information we collect as part of your purchase of a Subscription, the creation of your
+Account, or the integration with your Social Media Network, may be considered as “personal data” under
+applicable laws, including without limitation your full name, email address, job title and company name, your
+communications with the Company (including by email), information collected via technology such as your
+IP address or similar identifiers, and Analytic Information which we may cross reference with the
+aforementioned information (collectively, “Personal Data”). You hereby consent to the collection and
+processing of your Personal Data in accordance with this section 7. In addition, you hereby warrant and
+represent that, where applicable, you have obtained the necessary consent of your Invited Users and provided
+them with all necessary notices and disclosures, as required by applicable law, for your transfer of their
+Personal Data to the Company and to the Company’s processing thereof in accordance with this section 7,
+including the Company’s communication to them of an invitation to open an Account, as further outlined
+above. You acknowledge and confirm that you are not required to provide us with your Personal Data and that
+such data is voluntarily provided to us. Your Personal Data may be processed by us for our general
+administrative and legitimate business purposes, including without limitation for the improvement of the
+Company’s products and/or services, and for providing you additional services (to the extent available and
+purchased by you) via the Company’s or its affiliates' website and/or platforms (such as, to provide you with
+certain insights and analytics via the Company’s website which are based on the Analytic Information). In
+addition, we may add your contact details to our mailing list for the purpose of sending you information about
+our products and services by email, SMS, phone or through web-browser notification. You have the right to
+opt-out of marketing messages at any time by following the instructions in such messages or by contacting us
+at: support@startearly.ai. You hereby acknowledge and confirm that the Personal Data shall not be transferred
+to any third party, other than to (a) to satisfy any applicable law or governmental request; (b) to enforce this
+Agreement, including investigation of potential violations thereof, and to defend against any claims or
+demands asserted against us by you or on your behalf; (c) to detect, prevent, or otherwise address fraud,
+security or technical issues; (d) by virtue of undergoing any change in control, including by means of merger,
+acquisition or purchase of all or substantially all of the assets of the Company, so long as such acquirer
+maintains the same privacy terms hereunder; (e) pursuant to your explicit approval prior to the disclosure;
+and/or (f) service providers involved in pursuing the purposes set forth above on the Company’s behalf. You
+further acknowledge and confirm that such recipients may be located in a country that does not have the same
+data protection laws as your jurisdiction, and you hereby consent to such cross-border transfer.
+
+8. Disclaimers. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE PLATFORM AND THE
+OUTPUT ARE PROVIDED ON AN “AS IS” BASIS. THE COMPANY OR ITS AFFILIATES, AGENTS,
+RESELLERS, LICENSORS, SUBSIDIARIES, OFFICERS, DIRECTORS, SHAREHOLDERS,
+EMPLOYEES, SUB-CONTRACTORS, DISTRIBUTORS, SERVICE PROVIDERS AND/OR SUPPLIERS
+DO NOT WARRANT THAT THE PLATFORM AND/OR THE OUTPUT WILL MEET YOUR
+REQUIREMENTS OR THAT THE PLATFORM'S AND/OR THE OUTPUT’S OPERATION WILL BE
+SECURED AT ALL TIMES, UNINTERRUPTED, ERROR-FREE, FREE OF VIRUSES, BUGS, WORMS,
+OTHER HARMFUL COMPONENTS OR OTHER PLATFORM LIMITATIONS. TO THE EXTENT
+ALLOWED BY LAW, THE COMPANY HEREBY DISCLAIMS ALL EXPRESS WARRANTIES AND
+ALL IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, MERCHANTABILITY, NONINTERFERENCE,
+NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE,
+SATISFACTORY QUALITY, ACCURACY AND RELIABILITY OF THE RESULTS AND OTHER
+DATA PRODUCED BY USE OF THE PLATFORM AND/OR THE OUTPUT, AND ANY WARRANTIES
+ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. IN ADDITION, DUE TO THE
+CONTINUAL DEVELOPMENT OF NEW TECHNIQUES FOR INTRUDING UPON AND ATTACKING
+NETWORKS, COMPANY DOES NOT WARRANT THAT THE PLATFORM OR ANY EQUIPMENT OR
+SYSTEM SUPPLIED BY THE COMPANY WITH THE PLATFORM (IF ANY), WILL BE FREE OF
+VULNERABILITY, INTRUSION OR ATTACK.
+
+9. Limitation of Liability. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW (A) THE
+COMPANY OR ITS SUPPLIERS AND/OR LICENSORS SHALL NOT BE LIABLE WHETHER UNDER
+CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, TO YOU OR ANY THIRD PARTY
+FOR ANY DAMAGES WHATSOEVER, INCLUDING DIRECT, INDIRECT, INCIDENTAL, PUNITIVE,
+EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING BUT NOT
+LIMITED TO, ANY LOSS OR DAMAGE TO BUSINESS EARNINGS, LOST PROFITS OR GOODWILL
+AND LOST OR DAMAGED DATA OR DOCUMENTATION), SUFFERED BY ANY PERSON, ARISING
+FROM AND/OR RELATED WITH AND/OR CONNECTED TO THE INSTALLATION AND/OR USE OF
+THE PLATFORM AND/OR THE OUTPUT OR ANY EQUIPMENT OR SYSTEM SUPPLIED BY THE
+COMPANY (IF ANY) AND/OR ANY USE OF OR INABILITY TO USE THE PLATFORM (INCLUDING
+THE RESULTS, THE OUTPUT AND CONSEQUENCES OF USE OF THE PLATFORM AND/OR THE
+OUTPUT AND THE ACCURACY OF SUCH RESULTS AND/OR OUTPUT AND THEIR RELIABILITY)
+OR ANY EQUIPMENT OR SYSTEM SUPPLIED BY THE COMPANY (IF ANY), EVEN IF THE
+COMPANY WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES; AND (B) IN NO EVENT
+SHALL THE COMPANY'S TOTAL LIABILITY ARISING OUT OF OR RELATING TO THIS
+AGREEMENT FROM ALL CLAIMS OR CAUSES OF ACTION AND UNDER ALL THEORIES OF
+LIABILITY, WILL EXCEED THE LOWER OF ONE HUNDRED (100) US DOLLARS OR THE TOTAL
+AMOUNTS ACTUALLY PAID TO EARLY UNDER THIS AGREEMENT IN THE ONE (1) MONTH
+PERIOD PRECEDING THE EVENT GIVING RISE TO SUCH CLAIM. THIS LIMITATION OF
+LIABILITY IS CUMULATIVE AND NOT PER INCIDENT.
+
+10. Third Party Platform. The Platform is based on software which is developed and owned by the Company
+and/or its licensors. The Platform may use or include third party software, files and components that are subject
+to open source and third party license terms. A list of third party components that their licenses require certain
+notification ("Third Party Components") is available in the Platform or its documentation or in the
+Company’s website, and may be updated from time to time. Your right to use such Third Party Components
+as part of, or in connection with the Platform is subject to any applicable acknowledgements and license terms
+accompanying such Third Party Components contained therein or related thereto. If there is a conflict between
+the licensing terms of such Third Party Components and this Agreement, the licensing terms of the Third Party
+Components shall prevail in connection with the related Third Party Components. Such Third Party
+Components are provided on an “AS IS” basis without any warranty of any kind and shall be subject to any
+and all limitations and conditions required by such third parties. You hereby agree to such terms associated
+with the Third Party Components. Under no circumstances shall the Platform or any portion thereof (except
+for the Third Party Components contained therein) be deemed "open source" or "publicly available" software.
+The licenses of certain Third Party Components may require the provision of the source code of these Third
+Party Components. With respect to any licenses of Third Party Components that require the provision of the
+open source code of these Components, the Company will provide you and any third party, during a period set
+forth by each such license, for a charge of no more than Company's cost of physically performing source
+distribution, a complete machine-readable copy of the corresponding source code, on a medium customarily
+used for software interchange. For that purpose, you should contact the Company at: support@startearly.ai.
+
+11. Indemnification. You agree to defend, indemnify and hold harmless the Company, its officers, directors,
+employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs,
+debts, and expenses (including but not limited to attorney's fees) arising from: (i) your unauthorized use of the
+Platform; (ii) your infringement of the Company's Intellectual Property Rights; and/or (iii) your violation of
+any term of this Agreement. Without derogating from the foregoing, we reserve the right to assume the
+exclusive defense and control of any matter which is subject to indemnification by you, which will not excuse
+your indemnity obligations hereunder and in which event you will fully cooperate with us in asserting any
+available defense. You agree not to settle any matter subject to an indemnification by you without first
+obtaining our prior express written approval.
+
+12. Termination. The term of this Agreement shall start of the Effective Date and remain in effect until terminated
+in accordance with this Section (the “Term”), while your access to any Subscription-based features will cease
+immediately upon the termination of your Subscription. In case you are using only the free version of the
+Platform, you may terminate this Agreement at any time by uninstalling the Platform. In case you have any
+Subscription in effect, you may terminate the Subscription by providing Early a written notice and such
+termination will take effect at the end of your current Billing Cycle period, unless applicable consumer laws
+require otherwise. The Company may immediately terminate this Agreement and/or any Subscription for any
+reason by providing you a notice via e-mail or via the Platform. In addition, the Company reserves the right,
+at its sole discretion, to cease the operation of the Platform or any part thereof, temporarily or permanently,
+and to delete any information or content available therein. You agree and acknowledge that we do not assume
+any responsibility with respect to, or in connection with the termination of the Platform’s operation and loss
+of any data. Upon termination of this Agreement for any reason: (i) the License granted to you in this
+Agreement and, as applicable, any exiting Subscription, shall expire and you shall immediately discontinue
+all further use of the Platform and delete the documentation; (ii) you shall promptly remove the Platform from
+all hard drives, networks and other storage media and destroy all copies of the Platform in your possession or
+under your control; and (iii) you shall immediately pay all remaining sums due until the termination date
+(where applicable, calculated on a pro-rated basis). Upon the Company's request you shall within three (3)
+days certify destruction of, all full or partial copies of the Platform, documentation and related materials
+provided to you by the Company or on its behalf. The provisions of this Agreement that, by their nature and
+content, must survive the termination of this Agreement in order to achieve the fundamental purposes of this
+Agreement shall so survive. Termination of this Agreement shall not limit Company from pursuing any other
+remedies available to it under the applicable law.
+
+13. Maintenance and Support. For the avoidance of doubt, the Company is not obligated in any manner to
+provide you with support and/or maintenance services with respect to the Platform (such as, upgrades,
+modifications, or new releases of the Platform).
+
+14. Publicity. You hereby agree that Early may use the name, logo, and related trademarks or service marks of
+the relevant company or organization whose domain is associated with the e-mail address you have provided
+us as part of your registration to the Platform, as applicable, in Early’s marketing and promotional materials,
+including without limitation Early’s website. You hereby undertake that you have the required authority within
+such third party, or that you have otherwise received such third party’s consent, for granting such rights to the
+Company, and you agree to provide us with written evidence of such consent upon our request.
+
+15. Confidentiality.
+The Platform, the documentation and any and all information therein or relating thereto, including but not
+limited to trade secrets, technology, methodology, data, know-how, techniques and look and feel of the
+Platform, and all other information provided to you by the Company or its affiliates (if any), whether written
+or oral, that, given the circumstances, a reasonable person or entity should have reason to believe is proprietary,
+confidential, or competitively sensitive, shall all be deemed as confidential information of the Company
+(collectively, “Confidential Information”). You shall take reasonable measures, at least as protective as those
+taken to protect your own confidential information, but in no event less than reasonable care, to protect the
+Confidential Information from disclosure to a third party. You shall not use or disclose the Confidential
+Information except as expressly permitted under this Agreement. All right, title and interest in and to
+Confidential Information are and shall remain the sole and exclusive property of the Company.
+
+16. Miscellaneous. Where our contracting party is Early Technologies Ltd, this Agreement will be governed by
+the laws of the State of Israel, and where our contracting party is Early Technologies Inc, this Agreement will
+be governed by the laws of the State of New York, USA, in each case, without regard to their conflict of laws
+provisions. The application of the United Nations Convention of Contracts for the International Sale of Goods
+is expressly excluded. Where our contracting party is Early Technologies Ltd, any claim or controversy arising
+out of or relating to this Agreement shall be brought exclusively in the courts located in Tel-Aviv, Israel, and
+where the our contracting party is Early Technologies Inc, any claim or controversy arising out of or relating
+to this Agreement shall be brought exclusively in the courts located in the State of New York, USA, and in
+each case, the Parties hereby consent to personal jurisdiction and venue in such courts. The failure of either
+party to enforce any rights granted hereunder or to take action against the other party in the event of any breach
+hereunder shall not be deemed a waiver by that party as to subsequent enforcement of rights or subsequent
+actions in the event of future breaches. If any provision of this Agreement is held to be unenforceable, such
+provision shall be reformed only to the extent necessary to make it enforceable. You may not assign your
+rights or obligations under this Agreement without the prior written consent of the Company. The Company
+may assign or transfer its rights and/or obligations under this Agreement without restriction or notification.
+We may, at our sole discretion, change this Agreement from time to time, so please re-visit this page
+frequently. In case of any material change, we will post a clear notice on the Company’s website and/or
+Platform and/or send you an e-mail regarding such change. Such material changes will take effect seven (7)
+days after such notice was provided. Otherwise, all other changes to this Agreement are effective as of the
+stated “Last Revised” date and your continued use of the Platform on or after the Last Revised date will
+constitute acceptance of, and agreement to be bound by, those changes. We also reserve the right to modify,
+correct, amend, enhance, improve, make any other changes to the Platform (or any part thereof), at any time,
+while in the event of material changes, we will take commercially reasonable efforts to notify you via one of
+the communication means identified under this Section.
+
+I HAVE READ AND UNDERSTOOD THIS AGREEMENT AND AGREE TO BE BOUND BY ALL OF ITS TERMS AND
+CONDITIONS.
