@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.18
+* New:  PRO plan fro increased capacity and features. 
+* Tests indication in Earl
+* React Typescripts test improvements 
+
 ## 0.5.17
 * Improved TS React testing support
 * Improved test validation command
