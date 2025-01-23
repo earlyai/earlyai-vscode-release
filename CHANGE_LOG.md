@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.19
+* Improve TS React tests.
+* Improve Python tests.
+
 ## 0.5.18
 * New:  PRO plan fro increased capacity and features. 
 * Tests indication in Earl
