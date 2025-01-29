@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.20
+* Earl - Magically help users fix their configuration issues 
+
 ## 0.5.19
 * Improve TS React tests.
 * Improve Python tests.
