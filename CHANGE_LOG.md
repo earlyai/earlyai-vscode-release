@@ -1,7 +1,8 @@
 # Changelog
 
 ## 0.5.21
-* Earl - Magically help users fix their configuration issues 
+* Support the Windsurf IDE.
+* Improved Common javascript support.
 
 ## 0.5.20
 * Earl - Magically help users fix their configuration issues 
