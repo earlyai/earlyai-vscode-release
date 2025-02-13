@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.5.21
+* Support the Windsurf IDE.
+* Improved Common javascript support.
+
+## 0.5.20
+* Earl - Magically help users fix their configuration issues 
+
+## 0.5.19
+* Improve TS React tests.
+* Improve Python tests.
+
 ## 0.5.18
 * New:  PRO plan fro increased capacity and features. 
 * Tests indication in Earl
