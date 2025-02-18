@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.22
+* Improve coverage calculation.
+* Improve JS and TS nested classes test generation.
+
 ## 0.5.21
 * Support the Windsurf IDE.
 * Improved Common javascript support.
