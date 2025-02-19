@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.23
+* Improve Python server stabillity.
+
 ## 0.5.22
 * Improve coverage calculation.
 * Improve JS and TS nested classes test generation.
