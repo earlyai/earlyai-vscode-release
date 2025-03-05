@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.25
+* Enhanced Python server stability
+* Added pro feature to generate tests for all functions in a file
+
 ## 0.5.24
 * Enhanced stability of the Python service through improved exception handling and resource management.
 * Streamlined Jest verification execution with optimized test runners and reduced time-to-completion.
