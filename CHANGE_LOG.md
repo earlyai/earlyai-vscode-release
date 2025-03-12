@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5026
+* Performance improvements
+* Bug fixes
+
 ## 0.5.25
 * Enhanced Python server stability
 * Added pro feature to generate tests for all functions in a file
