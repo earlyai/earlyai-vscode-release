@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.5026
+## 0.5.26
 * Performance improvements
 * Bug fixes
 
