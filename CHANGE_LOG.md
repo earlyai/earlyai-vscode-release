@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.5.26
+* Performance improvements
+* Bug fixes
+
+## 0.5.25
+* Enhanced Python server stability
+* Added pro feature to generate tests for all functions in a file
+
+## 0.5.24
+* Enhanced stability of the Python service through improved exception handling and resource management.
+* Streamlined Jest verification execution with optimized test runners and reduced time-to-completion.
+* Implemented usage tracking for test generation.
+
+## 0.5.23
+* Improve Python server stabillity.
+
+## 0.5.22
+* Improve coverage calculation.
+* Improve JS and TS nested classes test generation.
+
 ## 0.5.21
 * Support the Windsurf IDE.
 * Improved Common javascript support.
