@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.5.27
+
+### New Feature: Make These Tests Even Better!
+
+We’ve added a powerful new way to customize your generated tests!
+
+After generating tests, you’ll now see a prompt area in the side pane where you can guide us to enhance or modify the tests. Whether you want to improve coverage, restructure the test layout, or handle additional scenarios—just tell us what you need.
+
+🧠 What you can do:
+	•	Add edge cases or error handling
+	•	Refactor to use beforeEach or parameterized tests
+	•	Improve mock structure and assertions
+	•	Use spies or test different failure modes
+	•	Adjust test style to match your team’s patterns
+
 ## 0.5.26
 * Performance improvements
 * Bug fixes
@@ -14,7 +29,7 @@
 * Implemented usage tracking for test generation.
 
 ## 0.5.23
-* Improve Python server stabillity.
+* Improve Python server stability.
 
 ## 0.5.22
 * Improve coverage calculation.
@@ -64,7 +79,7 @@
 
 ## 0.5.8
 
-* File view imperovements.
+* File view improvements.
 * Improved package imports in test files.
 
 ## 0.5.7
