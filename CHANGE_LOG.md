@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.28
+- Personalize your tests after they are created using Earl in the side panel.
+- Improved indication of free daily capacity.
+- Bug fixes.
+
 ## 0.5.27
 
 ### New Feature: Make These Tests Even Better!
