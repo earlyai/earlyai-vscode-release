@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.5.29
+- 🛠️ Generate Test Options
+Alongside the familiar magic wand icon, there’s now a new wand with a cog — “Generate Test Options.” Click it to configure how tests are generated before running the request.
+- ✨ Enhanced “Enhance Tests”
+Previously, enhancing a test would create a new file each time. Now, you can choose to override the most recently generated test file keeping things clean and avoiding clutter.
+- 🐍 Smarter Python Support
+Python function discovery has leveled up! We now support modules inside packages within your project, making sure more of your Python code is testable out of the box.
+- Streamlined Sign-In Flow
+Right after installing the extension, you’ll now see a friendly VSCode notification prompting you to sign in. Choose quick GitHub authentication or explore all options via the additional sign in options.
+
 ## 0.5.28
 - Personalize your tests after they are created using Earl in the side panel.
 - Improved indication of free daily capacity.
