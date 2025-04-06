@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.30
+- sign-in bug fix - we handled an issue where sometimes the sign-in process failed to update vsCode.
+
 ## 0.5.29
 - 🛠️ Generate Test Options
 Alongside the familiar magic wand icon, there’s now a new wand with a cog — “Generate Test Options.” Click it to configure how tests are generated before running the request.
