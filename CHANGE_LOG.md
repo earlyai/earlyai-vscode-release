@@ -1,16 +1,31 @@
 # Changelog
 
+## 1.0.0
+
+1. 🚀 Smarter Test Generation
+Major improvements to our TypeScript and Python generators mean better, cleaner, and more accurate test code out of the box.
+2. 🔔 Notification Center
+Look for the new bell icon next to the settings cog! It’s your new hub for feature announcements, tips, and important updates — all in one place.
+3. 📂 Pull Request Tab
+Working on a feature branch? Check the new “Pull Request” tab to easily view the files you’ve changed and focus your test generation where it matters most.
+4. 💬 Join the Conversation
+You’ll now see a link to join our Slack channel — a place where your voice matters. Share feedback, ask questions, and help shape the future of Early AI.
+5. ✨ Sleek New Login Screen
+We gave the sign-in flow a fresh look — faster, smoother, and nicer to look at.
+6. 🧪 Smarter Test Enhancement
+After tests are generated, head to the right pane to enhance them. Use a prompt to add more tests or tweak existing ones to better fit your needs.
+
 ## 0.5.30
 - sign-in bug fix - we handled an issue where sometimes the sign-in process failed to update vsCode.
 
 ## 0.5.29
-- 🛠️ Generate Test Options
+1. 🛠️ Generate Test Options
 Alongside the familiar magic wand icon, there’s now a new wand with a cog — “Generate Test Options.” Click it to configure how tests are generated before running the request.
-- ✨ Enhanced “Enhance Tests”
+2. ✨ Enhanced “Enhance Tests”
 Previously, enhancing a test would create a new file each time. Now, you can choose to override the most recently generated test file keeping things clean and avoiding clutter.
-- 🐍 Smarter Python Support
+3. 🐍 Smarter Python Support
 Python function discovery has leveled up! We now support modules inside packages within your project, making sure more of your Python code is testable out of the box.
-- Streamlined Sign-In Flow
+4. Streamlined Sign-In Flow
 Right after installing the extension, you’ll now see a friendly VSCode notification prompting you to sign in. Choose quick GitHub authentication or explore all options via the additional sign in options.
 
 ## 0.5.28
