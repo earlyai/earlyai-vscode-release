@@ -4,20 +4,16 @@
 
  
 1. 🔁 Pull Request Enhancements
-
 You can now configure the destination branch in the Pull Request view — making it easy to compare changes between branches and generate focused tests.
-🧪 Smarter Test Generation for Python & TypeScript
 
-2. We’ve improved the code quality of generated tests for both Python and TypeScript — more accurate, more useful, and easier to maintain.
+2. 🧪 Smarter Test Generation for Python & TypeScript
+We’ve improved the code quality of generated tests for both Python and TypeScript — more accurate, more useful, and easier to maintain.
 
-3. 🎨 UI Improvements
-
-Subtle but impactful:
+3. 🎨 UI Improvements - Subtle but impactful:
 New icons for test generation and custom test generation
 Smoother experience for Python users while the extension prepares to load
 
 4. 🐛 Bug Fixes
-
 We’ve squashed a few bugs to make everything run smoother.
  
 
