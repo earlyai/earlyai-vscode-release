@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.1.1
+
+1. 🧠 Major Model Upgrade – More and Better Tests!
+We’ve taken a huge leap forward! Our upgraded model now generates more unit tests, with higher accuracy and better coverage — helping you catch more bugs, faster. This is a big quality boost — and we’re just getting started!
+
+2. 🔔 Revamped Notifications Area
+We redesigned the notifications panel to make it cleaner, easier to read, and more intuitive — so you never miss important updates.
+
+3. 🛠️ Smarter TypeScript Mocks
+In TypeScript unit tests, mock return types are now more realistic and accurate — making your generated tests even closer to production behavior.
+
+4. 🐛 Minor Bug Fixes & Performance Improvements
+We’ve polished a few edges and tuned the engine for a smoother, faster experience.
+
 ## 1.1.0
 
  
