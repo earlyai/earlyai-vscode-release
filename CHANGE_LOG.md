@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.2.0
+
+1. 🧠 Custom Test Instructions – You’re in Control!
+We’ve just supercharged test generation. You can now add your own custom instructions to guide how unit tests are generated — ask for specific test cases, enforce coding styles, or request particular libraries.
+Want these preferences to persist? No problem — your instructions can be saved per repository. More control, better tests, your way.
+2. 💡 Better JavaScript Test Quality
+We’ve fine-tuned our JS test generation engine. Expect smarter, more maintainable code that aligns with real-world expectations.
+3. 🔔 Sleeker Notifications Area
+The notification UI got an upgrade — now clearer and easier to follow, so you never miss out on what’s new.
+4. 🐍 Python Test Stability Boost
+Python unit test generation is now more robust and reliable, especially for complex or edge-case code structures.
+ 
+
 ## 1.1.1
 
 1. 🧠 Major Model Upgrade – More and Better Tests!
