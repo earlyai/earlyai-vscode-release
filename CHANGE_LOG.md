@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.1
+
+1. 🧪 Pull Request Support for Python
+The Pull Request feature now supports Python projects! When you’re working on a feature branch, Early AI compares your changes against the main branch to highlight only what matters. With a focused view of your modified code, you can generate targeted unit tests and keep your Python codebase robust — without the manual effort.
+2. ⚡ Smaller & Faster Extension
+We’ve trimmed down the extension’s size and boosted performance. Expect faster load times, a lighter footprint, and an overall smoother experience in your IDE.
+
 ## 1.2.0
 
 1. 🧠 Custom Test Instructions – You’re in Control!
