@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.3.0
+
+1.	📊 Python Coverage in the Tree View
+You can now see test coverage indicators for Python files and folders directly in the extension’s tree view. Quickly identify what’s tested and where coverage is missing — visually, at a glance.
+2.	🧪 Enhance Tests Now Supports Python
+Our powerful Enhance Tests feature — previously available for JavaScript and TypeScript — is now fully supported for Python! Expand and refine your existing Python tests with ease.
+3.	🧠 Earl Displays Python Tests
+Earl, your AI test engineer, now shows generated Python tests in the right-hand panel, just like with JS/TS. Review them, copy them, or use them to dig deeper into your test coverage.
+4.	💡 Quality Enhancements for TypeScript and JavaScript
+   ✅ Mock Cleanup: We now comment out valid mocks correctly and clean up grey (untestable) tests to keep your test files neat.
+   ⚛️ Deeper React Integration: Support for React components has improved with 2-level depth analysis, helping generate more meaningful tests for nested structures.
+
+
 ## 1.2.1
 
 1. 🧪 Pull Request Support for Python
