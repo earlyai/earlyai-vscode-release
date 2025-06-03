@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.3.1
+
+This update includes a few important fixes to improve the Python experience:
+ 
+1. Coverage Display Fixed
+Resolved an issue where coverage wasn’t shown for Python files.
+2. Python Enabled for New Users
+New users now have Python support turned on by default — no extra steps needed.
+3. Auto-Refresh Coverage
+Python coverage is now automatically refreshed after generating tests, giving you immediate feedback.
+
 ## 1.3.0
 
 1.	📊 Python Coverage in the Tree View
