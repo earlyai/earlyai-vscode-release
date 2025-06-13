@@ -1,5 +1,14 @@
 # Changelog
 
+
+## 1.3.2
+
+1.	Faster Test Display, Smarter Flow
+Unit tests now appear much faster. We’ve removed the pre-validation filter for minor syntax issues — you get immediate test output, with validation and enhancement tools available afterward.
+2.	Performance Improvements
+We’ve optimized memory usage and significantly reduced load times, especially for Python projects.
+
+
 ## 1.3.1
 
 This update includes a few important fixes to improve the Python experience:
@@ -10,6 +19,7 @@ Resolved an issue where coverage wasn’t shown for Python files.
 New users now have Python support turned on by default — no extra steps needed.
 3. Auto-Refresh Coverage
 Python coverage is now automatically refreshed after generating tests, giving you immediate feedback.
+
 
 ## 1.3.0
 
