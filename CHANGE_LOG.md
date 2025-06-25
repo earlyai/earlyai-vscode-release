@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.3
+👥 Team Collaboration Begins
+You can now create a team and invite your colleagues! This marks the first step toward collaborative testing and development in Early AI. Build together, test together.
+You can access the Team Management screen from the Profile button in the extension.
+https://app.startearly.ai/company 
 
 ## 1.3.2
 
