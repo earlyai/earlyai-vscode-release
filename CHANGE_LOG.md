@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.4
+* 1. Refresh Earl – After enhancing tests or editing your test file, hit refresh in Earl to see updated results, test run indicators, and more.
+* 2. Improved Test Result Detection – We’ve made it easier to understand test outcomes with clearer, more accurate result indicators.
+* 3. Web Team Page Polished – We’ve refined the team page on the web. Access it via “Upgrade to Pro” and navigate to the team section.
+* 4. Cancel Test Generation – Launched multiple test generations by mistake? You can now cancel them directly from the tree view or from Earl’s right panel.
+
+
 ## 1.3.3
 👥 Team Collaboration Begins
 You can now create a team and invite your colleagues! This marks the first step toward collaborative testing and development in Early AI. Build together, test together.
@@ -290,7 +297,7 @@ Earl works seamlessly behind the scenes while your tests are being generated, he
 
 - Some bugs have been identified and squashed.
 - Imports are better created in your test files.
-- "Go to tests" from the code lens behaves nicer.
+- Go to tests from the code lens behaves nicer.
 
 ## 0.4.35
 
@@ -367,7 +374,7 @@ Sneak peek: Thanks to feedback from our awesome users, we’re working on adding
 
 ### Features
 
-- "MY CODE" - check out the tab that gives you focus on you current feature. It has Code coverage now.
+- MY CODE - check out the tab that gives you focus on you current feature. It has Code coverage now.
 
 ## 0.4.21
 
@@ -377,14 +384,14 @@ Sneak peek: Thanks to feedback from our awesome users, we’re working on adding
 
 ### known issues
 
-- If you don't have any tests, create them in the code lens and "Reload" once done.
+- If you don't have any tests, create them in the code lens and Reload once done.
 
 ## 0.4.20
 
 ### Features
 
-- "Generate Tests" and "Goto Tests" are now available from the extension UI, Code lens, and context menu.
-- You now have nice in-progress and queued indicators for "Generate Tests" operations.
+- Generate Tests and Goto Tests are now available from the extension UI, Code lens, and context menu.
+- You now have nice in-progress and queued indicators for Generate Tests operations.
 
 ## 0.4.19
 
@@ -396,7 +403,7 @@ Sneak peek: Thanks to feedback from our awesome users, we’re working on adding
 
 ### Features
 
-- Introducing "My View" - focus on what matters when creating your tests. This view will display files that are changed in git (your future PR).
+- Introducing My View - focus on what matters when creating your tests. This view will display files that are changed in git (your future PR).
 
 ## 0.4.17
 
