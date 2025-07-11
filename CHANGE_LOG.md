@@ -1,5 +1,8 @@
 # Changelog
 
+##1.3.6
+* Bug fixes and performance improvements
+
 ## 1.3.4
 * 1. Refresh Earl – After enhancing tests or editing your test file, hit refresh in Earl to see updated results, test run indicators, and more.
 * 2. Improved Test Result Detection – We’ve made it easier to understand test outcomes with clearer, more accurate result indicators.
