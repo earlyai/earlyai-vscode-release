@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.3.9
+🆕 Full Support for TypeScript Anonymous Functions
+ 
+We now fully support generating tests for anonymous functions.
+ 
+🧪 Generate tests instruction
+ 
+You can now edit or clean up your pre-test instructions — easily adjust your preferences before generating tests.
+ 
+⚙️ Performance & Stability
+ 
+We’ve fixed several bugs and made performance improvements behind the scenes to ensure a smoother experience.
+
 ## 1.3.8
 * Bug fixes and performance improvements
 
