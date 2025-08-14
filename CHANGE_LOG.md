@@ -1,5 +1,9 @@
 # Changelog
 
+##1.4.0
+💡 Smarter, Higher-Quality Tests
+We’ve supercharged our test generation engine! Expect cleaner structure, better mocks, and more reliable assertions
+
 ## 1.3.9
 🆕 Full Support for TypeScript Anonymous Functions
  
