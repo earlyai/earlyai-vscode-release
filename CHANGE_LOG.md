@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.4.1
+Bug fixes and performance improvements
+
 ## 1.4.0
 💡 Smarter, Higher-Quality Tests
 We’ve supercharged our test generation engine! Expect cleaner structure, better mocks, and more reliable assertions
