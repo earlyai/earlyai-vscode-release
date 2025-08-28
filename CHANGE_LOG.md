@@ -1,4 +1,11 @@
 # Changelog
+## 1.4.2
+📊 Vitest Coverage, Unlocked
+If you’re using Vitest for JS/TS, you’ll now see file and function-level coverage directly in the extension — no extra config needed. Until now, this was exclusive to Jest.
+ 
+🧪 Smarter, Targeted Test Prompts
+Test generation just got more customizable: click the ⚙️ icon in the extension tree to tailor prompts for your code. We’ve also added a built-in sample for API security testing — perfect for controllers and request/response flows.
+
 
 ## 1.4.1
 Bug fixes and performance improvements
