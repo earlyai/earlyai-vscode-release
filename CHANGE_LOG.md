@@ -1,167 +1,180 @@
 # Changelog
+
+## 1.4.3
+
+🧪 Earl Test Summary for Vitest
+Building on our recent Vitest coverage support, the Earl panel now shows a full breakdown of your test results — including pass/fail stats (green, red, and failed tests) — for Vitest projects too.
+
+🐞 Minor Fixes
+Bug fixes and minor improvements to keep things smooth.
+
 ## 1.4.2
+
 📊 Vitest Coverage, Unlocked
 If you’re using Vitest for JS/TS, you’ll now see file and function-level coverage directly in the extension — no extra config needed. Until now, this was exclusive to Jest.
- 
+
 🧪 Smarter, Targeted Test Prompts
 Test generation just got more customizable: click the ⚙️ icon in the extension tree to tailor prompts for your code. We’ve also added a built-in sample for API security testing — perfect for controllers and request/response flows.
 
-
 ## 1.4.1
+
 Bug fixes and performance improvements
 
 ## 1.4.0
+
 💡 Smarter, Higher-Quality Tests
 We’ve supercharged our test generation engine! Expect cleaner structure, better mocks, and more reliable assertions
 
 ## 1.3.9
+
 🆕 Full Support for TypeScript Anonymous Functions
- 
+
 We now fully support generating tests for anonymous functions.
- 
+
 🧪 Generate tests instruction
- 
+
 You can now edit or clean up your pre-test instructions — easily adjust your preferences before generating tests.
- 
+
 ⚙️ Performance & Stability
- 
+
 We’ve fixed several bugs and made performance improvements behind the scenes to ensure a smoother experience.
 
 ## 1.3.8
-* Bug fixes and performance improvements
+
+- Bug fixes and performance improvements
 
 ## 1.3.7
-* Bug fixes and performance improvements
+
+- Bug fixes and performance improvements
 
 ## 1.3.6
-* Bug fixes and performance improvements
+
+- Bug fixes and performance improvements
 
 ## 1.3.4
-* 1. Refresh Earl – After enhancing tests or editing your test file, hit refresh in Earl to see updated results, test run indicators, and more.
-* 2. Improved Test Result Detection – We’ve made it easier to understand test outcomes with clearer, more accurate result indicators.
-* 3. Web Team Page Polished – We’ve refined the team page on the web. Access it via “Upgrade to Pro” and navigate to the team section.
-* 4. Cancel Test Generation – Launched multiple test generations by mistake? You can now cancel them directly from the tree view or from Earl’s right panel.
 
+- 1. Refresh Earl – After enhancing tests or editing your test file, hit refresh in Earl to see updated results, test run indicators, and more.
+- 2. Improved Test Result Detection – We’ve made it easier to understand test outcomes with clearer, more accurate result indicators.
+- 3. Web Team Page Polished – We’ve refined the team page on the web. Access it via “Upgrade to Pro” and navigate to the team section.
+- 4. Cancel Test Generation – Launched multiple test generations by mistake? You can now cancel them directly from the tree view or from Earl’s right panel.
 
 ## 1.3.3
+
 👥 Team Collaboration Begins
 You can now create a team and invite your colleagues! This marks the first step toward collaborative testing and development in Early AI. Build together, test together.
 You can access the Team Management screen from the Profile button in the extension.
-https://app.startearly.ai/company 
+https://app.startearly.ai/company
 
 ## 1.3.2
 
-1.	Faster Test Display, Smarter Flow
-Unit tests now appear much faster. We’ve removed the pre-validation filter for minor syntax issues — you get immediate test output, with validation and enhancement tools available afterward.
-2.	Performance Improvements
-We’ve optimized memory usage and significantly reduced load times, especially for Python projects.
-
+1. Faster Test Display, Smarter Flow
+   Unit tests now appear much faster. We’ve removed the pre-validation filter for minor syntax issues — you get immediate test output, with validation and enhancement tools available afterward.
+2. Performance Improvements
+   We’ve optimized memory usage and significantly reduced load times, especially for Python projects.
 
 ## 1.3.1
 
 This update includes a few important fixes to improve the Python experience:
- 
-1. Coverage Display Fixed
-Resolved an issue where coverage wasn’t shown for Python files.
-2. Python Enabled for New Users
-New users now have Python support turned on by default — no extra steps needed.
-3. Auto-Refresh Coverage
-Python coverage is now automatically refreshed after generating tests, giving you immediate feedback.
 
+1. Coverage Display Fixed
+   Resolved an issue where coverage wasn’t shown for Python files.
+2. Python Enabled for New Users
+   New users now have Python support turned on by default — no extra steps needed.
+3. Auto-Refresh Coverage
+   Python coverage is now automatically refreshed after generating tests, giving you immediate feedback.
 
 ## 1.3.0
 
-1.	📊 Python Coverage in the Tree View
-You can now see test coverage indicators for Python files and folders directly in the extension’s tree view. Quickly identify what’s tested and where coverage is missing — visually, at a glance.
-2.	🧪 Enhance Tests Now Supports Python
-Our powerful Enhance Tests feature — previously available for JavaScript and TypeScript — is now fully supported for Python! Expand and refine your existing Python tests with ease.
-3.	🧠 Earl Displays Python Tests
-Earl, your AI test engineer, now shows generated Python tests in the right-hand panel, just like with JS/TS. Review them, copy them, or use them to dig deeper into your test coverage.
-4.	💡 Quality Enhancements for TypeScript and JavaScript
+1. 📊 Python Coverage in the Tree View
+   You can now see test coverage indicators for Python files and folders directly in the extension’s tree view. Quickly identify what’s tested and where coverage is missing — visually, at a glance.
+2. 🧪 Enhance Tests Now Supports Python
+   Our powerful Enhance Tests feature — previously available for JavaScript and TypeScript — is now fully supported for Python! Expand and refine your existing Python tests with ease.
+3. 🧠 Earl Displays Python Tests
+   Earl, your AI test engineer, now shows generated Python tests in the right-hand panel, just like with JS/TS. Review them, copy them, or use them to dig deeper into your test coverage.
+4. 💡 Quality Enhancements for TypeScript and JavaScript
    ✅ Mock Cleanup: We now comment out valid mocks correctly and clean up grey (untestable) tests to keep your test files neat.
    ⚛️ Deeper React Integration: Support for React components has improved with 2-level depth analysis, helping generate more meaningful tests for nested structures.
-
 
 ## 1.2.1
 
 1. 🧪 Pull Request Support for Python
-The Pull Request feature now supports Python projects! When you’re working on a feature branch, Early AI compares your changes against the main branch to highlight only what matters. With a focused view of your modified code, you can generate targeted unit tests and keep your Python codebase robust — without the manual effort.
+   The Pull Request feature now supports Python projects! When you’re working on a feature branch, Early AI compares your changes against the main branch to highlight only what matters. With a focused view of your modified code, you can generate targeted unit tests and keep your Python codebase robust — without the manual effort.
 2. ⚡ Smaller & Faster Extension
-We’ve trimmed down the extension’s size and boosted performance. Expect faster load times, a lighter footprint, and an overall smoother experience in your IDE.
+   We’ve trimmed down the extension’s size and boosted performance. Expect faster load times, a lighter footprint, and an overall smoother experience in your IDE.
 
 ## 1.2.0
 
 1. 🧠 Custom Test Instructions – You’re in Control!
-We’ve just supercharged test generation. You can now add your own custom instructions to guide how unit tests are generated — ask for specific test cases, enforce coding styles, or request particular libraries.
-Want these preferences to persist? No problem — your instructions can be saved per repository. More control, better tests, your way.
+   We’ve just supercharged test generation. You can now add your own custom instructions to guide how unit tests are generated — ask for specific test cases, enforce coding styles, or request particular libraries.
+   Want these preferences to persist? No problem — your instructions can be saved per repository. More control, better tests, your way.
 2. 💡 Better JavaScript Test Quality
-We’ve fine-tuned our JS test generation engine. Expect smarter, more maintainable code that aligns with real-world expectations.
+   We’ve fine-tuned our JS test generation engine. Expect smarter, more maintainable code that aligns with real-world expectations.
 3. 🔔 Sleeker Notifications Area
-The notification UI got an upgrade — now clearer and easier to follow, so you never miss out on what’s new.
+   The notification UI got an upgrade — now clearer and easier to follow, so you never miss out on what’s new.
 4. 🐍 Python Test Stability Boost
-Python unit test generation is now more robust and reliable, especially for complex or edge-case code structures.
- 
+   Python unit test generation is now more robust and reliable, especially for complex or edge-case code structures.
 
 ## 1.1.1
 
 1. 🧠 Major Model Upgrade – More and Better Tests!
-We’ve taken a huge leap forward! Our upgraded model now generates more unit tests, with higher accuracy and better coverage — helping you catch more bugs, faster. This is a big quality boost — and we’re just getting started!
+   We’ve taken a huge leap forward! Our upgraded model now generates more unit tests, with higher accuracy and better coverage — helping you catch more bugs, faster. This is a big quality boost — and we’re just getting started!
 
 2. 🔔 Revamped Notifications Area
-We redesigned the notifications panel to make it cleaner, easier to read, and more intuitive — so you never miss important updates.
+   We redesigned the notifications panel to make it cleaner, easier to read, and more intuitive — so you never miss important updates.
 
 3. 🛠️ Smarter TypeScript Mocks
-In TypeScript unit tests, mock return types are now more realistic and accurate — making your generated tests even closer to production behavior.
+   In TypeScript unit tests, mock return types are now more realistic and accurate — making your generated tests even closer to production behavior.
 
 4. 🐛 Minor Bug Fixes & Performance Improvements
-We’ve polished a few edges and tuned the engine for a smoother, faster experience.
+   We’ve polished a few edges and tuned the engine for a smoother, faster experience.
 
 ## 1.1.0
 
- 
 1. 🔁 Pull Request Enhancements
-You can now configure the destination branch in the Pull Request view — making it easy to compare changes between branches and generate focused tests.
+   You can now configure the destination branch in the Pull Request view — making it easy to compare changes between branches and generate focused tests.
 
 2. 🧪 Smarter Test Generation for Python & TypeScript
-We’ve improved the code quality of generated tests for both Python and TypeScript — more accurate, more useful, and easier to maintain.
+   We’ve improved the code quality of generated tests for both Python and TypeScript — more accurate, more useful, and easier to maintain.
 
 3. 🎨 UI Improvements - Subtle but impactful:
-New icons for test generation and custom test generation
-Smoother experience for Python users while the extension prepares to load
+   New icons for test generation and custom test generation
+   Smoother experience for Python users while the extension prepares to load
 
 4. 🐛 Bug Fixes
-We’ve squashed a few bugs to make everything run smoother.
- 
+   We’ve squashed a few bugs to make everything run smoother.
 
 ## 1.0.0
 
 1. 🚀 Smarter Test Generation
-Major improvements to our TypeScript and Python generators mean better, cleaner, and more accurate test code out of the box.
+   Major improvements to our TypeScript and Python generators mean better, cleaner, and more accurate test code out of the box.
 2. 🔔 Notification Center
-Look for the new bell icon next to the settings cog! It’s your new hub for feature announcements, tips, and important updates — all in one place.
+   Look for the new bell icon next to the settings cog! It’s your new hub for feature announcements, tips, and important updates — all in one place.
 3. 📂 Pull Request Tab
-Working on a feature branch? Check the new “Pull Request” tab to easily view the files you’ve changed and focus your test generation where it matters most.
+   Working on a feature branch? Check the new “Pull Request” tab to easily view the files you’ve changed and focus your test generation where it matters most.
 4. 💬 Join the Conversation
-You’ll now see a link to join our Slack channel — a place where your voice matters. Share feedback, ask questions, and help shape the future of Early AI.
+   You’ll now see a link to join our Slack channel — a place where your voice matters. Share feedback, ask questions, and help shape the future of Early AI.
 5. ✨ Sleek New Login Screen
-We gave the sign-in flow a fresh look — faster, smoother, and nicer to look at.
+   We gave the sign-in flow a fresh look — faster, smoother, and nicer to look at.
 6. 🧪 Smarter Test Enhancement
-After tests are generated, head to the right pane to enhance them. Use a prompt to add more tests or tweak existing ones to better fit your needs.
+   After tests are generated, head to the right pane to enhance them. Use a prompt to add more tests or tweak existing ones to better fit your needs.
 
 ## 0.5.30
+
 - sign-in bug fix - we handled an issue where sometimes the sign-in process failed to update vsCode.
 
 ## 0.5.29
+
 1. 🛠️ Generate Test Options
-Alongside the familiar magic wand icon, there’s now a new wand with a cog — “Generate Test Options.” Click it to configure how tests are generated before running the request.
+   Alongside the familiar magic wand icon, there’s now a new wand with a cog — “Generate Test Options.” Click it to configure how tests are generated before running the request.
 2. ✨ Enhanced “Enhance Tests”
-Previously, enhancing a test would create a new file each time. Now, you can choose to override the most recently generated test file keeping things clean and avoiding clutter.
+   Previously, enhancing a test would create a new file each time. Now, you can choose to override the most recently generated test file keeping things clean and avoiding clutter.
 3. 🐍 Smarter Python Support
-Python function discovery has leveled up! We now support modules inside packages within your project, making sure more of your Python code is testable out of the box.
+   Python function discovery has leveled up! We now support modules inside packages within your project, making sure more of your Python code is testable out of the box.
 4. Streamlined Sign-In Flow
-Right after installing the extension, you’ll now see a friendly VSCode notification prompting you to sign in. Choose quick GitHub authentication or explore all options via the additional sign in options.
+   Right after installing the extension, you’ll now see a friendly VSCode notification prompting you to sign in. Choose quick GitHub authentication or explore all options via the additional sign in options.
 
 ## 0.5.28
+
 - Personalize your tests after they are created using Earl in the side panel.
 - Improved indication of free daily capacity.
 - Bug fixes.
