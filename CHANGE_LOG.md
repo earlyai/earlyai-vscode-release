@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.4
+
+Bug fixes
+
 ## 1.4.3
 
 🧪 Earl Test Summary for Vitest
