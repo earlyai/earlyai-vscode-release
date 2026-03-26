@@ -41,4 +41,4 @@ Visit our [sample ToDo app in github](https://github.com/earlyai/earlyai-todo-ap
 
 ## For more details
 
-See our documentation [site](https://docs.startearly.ai/docs/Introduction/) for help.
+See our documentation [site](https://docs.startearly.ai/docs/) for help.
