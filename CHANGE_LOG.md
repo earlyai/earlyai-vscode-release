@@ -1,66 +1,42 @@
 # Changelog
 
+## 1.4.6
+
+### **Improvements**
+
+- **Clearer progress messages during test generation** — You'll now see friendly, human-readable status updates as your tests are being verified (linting, formatting, building, running), so you always know what's happening.
+
+### **Bug Fixes**
+
+- **Fixed test generation freezing** — The magic wand button in the file tree no longer freezes after generating tests for the first function.
+
+- **Fixed authentication token refresh** — Sessions now stay active longer without requiring you to re-authenticate.
+
+- **Improved project loading and coverage detection** — TypeScript projects load more reliably, and coverage data is now correctly identified, collected, and cached.
+
+- **Better support for projects with special characters in paths** — File paths with spaces or special characters are now handled correctly across all platforms, including Windows.
+
+- **Fixed ESM module compatibility** — Projects using ES modules are now handled more reliably.
+
+- **Fixed cleanup of stale test indicators** — Coverage indicators now correctly respect the test file extension you're using.
+
+- **Stability improvements** — Fixed a memory leak related to event listeners and improved overall extension responsiveness.
+
+## 1.4.5
+
+- We’ve increased the maximum amount of text you can enter in the “Enhance your tests” prompt, so you can provide more context and details when improving your tests.
+
 ## 1.4.4
 
 Bug fixes
 
 ## 1.4.3
 
-🧪 Earl Test Summary for Vitest
-Building on our recent Vitest coverage support, the Earl panel now shows a full breakdown of your test results — including pass/fail stats (green, red, and failed tests) — for Vitest projects too.
+- 🧪 Earl Test Summary for Vitest
+  Building on our recent Vitest coverage support, the Earl panel now shows a full breakdown of your test results — including pass/fail stats (green, red, and failed tests) — for Vitest projects too.
 
-🐞 Minor Fixes
-Bug fixes and minor improvements to keep things smooth.
-
-## 1.4.2
-
-📊 Vitest Coverage, Unlocked
-If you’re using Vitest for JS/TS, you’ll now see file and function-level coverage directly in the extension — no extra config needed. Until now, this was exclusive to Jest.
-
-🧪 Smarter, Targeted Test Prompts
-Test generation just got more customizable: click the ⚙️ icon in the extension tree to tailor prompts for your code. We’ve also added a built-in sample for API security testing — perfect for controllers and request/response flows.
-
-## 1.4.1
-
-Bug fixes and performance improvements
-
-## 1.4.0
-
-💡 Smarter, Higher-Quality Tests
-We’ve supercharged our test generation engine! Expect cleaner structure, better mocks, and more reliable assertions
-
-## 1.3.9
-
-🆕 Full Support for TypeScript Anonymous Functions
-
-We now fully support generating tests for anonymous functions.
-
-🧪 Generate tests instruction
-
-You can now edit or clean up your pre-test instructions — easily adjust your preferences before generating tests.
-
-⚙️ Performance & Stability
-
-We’ve fixed several bugs and made performance improvements behind the scenes to ensure a smoother experience.
-
-## 1.3.8
-
-- Bug fixes and performance improvements
-
-## 1.3.7
-
-- Bug fixes and performance improvements
-
-## 1.3.6
-
-- Bug fixes and performance improvements
-
-## 1.3.4
-
-- 1. Refresh Earl – After enhancing tests or editing your test file, hit refresh in Earl to see updated results, test run indicators, and more.
-- 2. Improved Test Result Detection – We’ve made it easier to understand test outcomes with clearer, more accurate result indicators.
-- 3. Web Team Page Polished – We’ve refined the team page on the web. Access it via “Upgrade to Pro” and navigate to the team section.
-- 4. Cancel Test Generation – Launched multiple test generations by mistake? You can now cancel them directly from the tree view or from Earl’s right panel.
+- 🐞 Minor Fixes
+  Bug fixes and minor improvements to keep things smooth.
 
 ## 1.3.3
 
